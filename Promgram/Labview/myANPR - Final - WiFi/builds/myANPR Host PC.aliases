@@ -1,0 +1,8 @@
+[My Computer]
+My Computer="localhost"
+
+[myRIO]
+myRIO="172.22.11.2"
+
+[myRIO 2]
+myRIO 2="172.16.0.1"
