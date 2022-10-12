@@ -5,9 +5,9 @@ Spyder Editor
 This is a temporary script file.
 """
 import cv2
-import numpy as np
+import numpy as n
 
-cap = cv2.VideoCapture("http://admin:admin@192.168.1.115:8081/video")#kitty
+cap = cv2.VideoCapture("http://admin:admin@192.168.1.116:8081/video")#kitty
 
 while cap.isOpened():
     ret, frame = cap.read()
